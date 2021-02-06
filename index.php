@@ -1,6 +1,7 @@
 <? php
 
-echo "Olá mundo!123";
+
+echo "Olá mundo!";
 
 echo "Olá Udemy!";
 
